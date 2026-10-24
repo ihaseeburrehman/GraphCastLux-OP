@@ -1,0 +1,98 @@
+{
+ "Luxembourg": {
+  "station": "Steinsel",
+  "sid": "021",
+  "height": 247,
+  "dist": "8",
+  "hours": 72,
+  "img": "img/verif_Luxembourg.png",
+  "ver": "202610241946",
+  "lines": [
+   [
+    "Temperature",
+    "typical miss: <b>GraphCast 0.4\u00b0</b> \u00b7 DWD ICON 0.5\u00b0 \u00b7 M\u00e9t\u00e9o-France AROME/ARPEGE 0.7\u00b0 (too warm)"
+   ],
+   [
+    "Rain",
+    "measured 16.5 mm \u00b7 forecast: <b>GraphCast 16.7</b> \u00b7 DWD ICON 21.5 \u00b7 M\u00e9t\u00e9o-France AROME/ARPEGE 17.6 mm"
+   ],
+   [
+    "Wind",
+    "not measured at this station"
+   ]
+  ],
+  "note": "Blue: measured. Lines: forecasts as published at the time (12\u201318 h ahead). Best in bold. Temperature adjusted to station height, wind to 2 m. Last measurement Sat 20:00."
+ },
+ "Esch-sur-Alzette": {
+  "station": "Oberkorn",
+  "sid": "005",
+  "height": 378,
+  "dist": "6",
+  "hours": 72,
+  "img": "img/verif_Esch-sur-Alzette.png",
+  "ver": "202610241946",
+  "lines": [
+   [
+    "Temperature",
+    "typical miss: <b>GraphCast 1.1\u00b0 (too warm)</b> \u00b7 DWD ICON 1.4\u00b0 (too warm) \u00b7 M\u00e9t\u00e9o-France AROME/ARPEGE 1.1\u00b0 (too warm)"
+   ],
+   [
+    "Rain",
+    "measured 23.5 mm \u00b7 forecast: GraphCast 16.1 \u00b7 <b>DWD ICON 23.3</b> \u00b7 M\u00e9t\u00e9o-France AROME/ARPEGE 27.6 mm"
+   ],
+   [
+    "Wind",
+    "measured 8 km/h \u00b7 forecast: GraphCast 18 \u00b7 DWD ICON 15 \u00b7 <b>M\u00e9t\u00e9o-France AROME/ARPEGE 14</b> km/h"
+   ]
+  ],
+  "note": "Blue: measured. Lines: forecasts as published at the time (12\u201318 h ahead). Best in bold. Temperature adjusted to station height, wind to 2 m. Last measurement Sat 20:00."
+ },
+ "Diekirch": {
+  "station": "Bettendorf",
+  "sid": "036",
+  "height": 187,
+  "dist": "4",
+  "hours": 72,
+  "img": "img/verif_Diekirch.png",
+  "ver": "202610241946",
+  "lines": [
+   [
+    "Temperature",
+    "typical miss: <b>GraphCast 0.5\u00b0</b> \u00b7 DWD ICON 0.5\u00b0 \u00b7 M\u00e9t\u00e9o-France AROME/ARPEGE 0.7\u00b0"
+   ],
+   [
+    "Rain",
+    "measured 12.9 mm \u00b7 forecast: GraphCast 18.6 \u00b7 DWD ICON 21.5 \u00b7 <b>M\u00e9t\u00e9o-France AROME/ARPEGE 16.7</b> mm"
+   ],
+   [
+    "Wind",
+    "measured 8 km/h \u00b7 forecast: GraphCast 18 \u00b7 DWD ICON 12 \u00b7 <b>M\u00e9t\u00e9o-France AROME/ARPEGE 11</b> km/h"
+   ]
+  ],
+  "note": "Blue: measured. Lines: forecasts as published at the time (12\u201318 h ahead). Best in bold. Temperature adjusted to station height, wind to 2 m. Last measurement Sat 20:00."
+ },
+ "Grevenmacher": {
+  "station": "Grevenmacher",
+  "sid": "012",
+  "height": 190,
+  "dist": "0",
+  "hours": 72,
+  "img": "img/verif_Grevenmacher.png",
+  "ver": "202610241946",
+  "lines": [
+   [
+    "Temperature",
+    "typical miss: GraphCast 0.5\u00b0 \u00b7 <b>DWD ICON 0.4\u00b0</b> \u00b7 M\u00e9t\u00e9o-France AROME/ARPEGE 0.7\u00b0 (too warm)"
+   ],
+   [
+    "Rain",
+    "measured 14.1 mm \u00b7 forecast: GraphCast 15.6 \u00b7 DWD ICON 17.4 \u00b7 <b>M\u00e9t\u00e9o-France AROME/ARPEGE 13.4</b> mm"
+   ],
+   [
+    "Wind",
+    "measured 8 km/h \u00b7 forecast: GraphCast 17 \u00b7 <b>DWD ICON 11</b> \u00b7 M\u00e9t\u00e9o-France AROME/ARPEGE 12 km/h"
+   ]
+  ],
+  "note": "Blue: measured. Lines: forecasts as published at the time (12\u201318 h ahead). Best in bold. Temperature adjusted to station height, wind to 2 m. Last measurement Sat 20:00."
+ }
+}
